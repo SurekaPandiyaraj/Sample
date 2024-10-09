@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\C#_Exam\\CarRentalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|x:\\c#_exam\\carrentalmanagementsystem\\carrentalmanagementsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|X:\\C#_Exam\\CarRentalManagementSystem\\carrentalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|X:\\C#_Exam\\CarRentalManagementSystem\\carrentalmanagementsystem\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|X:\\C#_Exam\\CarRentalManagementSystem\\carrentalmanagementsystem\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F32378-5F36-4757-8FA6-063E9D44445D}|CarRentalManagementSystem\\CarRentalManagementSystem.csproj|solutionrelative:carrentalmanagementsystem\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\CarRepository.cs",
+              "ToolTip": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\CarRepository.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:36:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\CarManager.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\CarManager.cs",
+              "ToolTip": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\CarManager.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\CarManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:26:41.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\Car.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\Car.cs",
+              "ToolTip": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\Car.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:24:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentalManagementSystem\\Program.cs",
+              "ToolTip": "X:\\C#_Exam\\CarRentalManagementSystem\\CarRentalManagementSystem\\Program.cs",
+              "RelativeToolTip": "CarRentalManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:23:47.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
